@@ -1,7 +1,15 @@
 {
   "name": "react-native-flux-desktop-pro",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "Higher-order composite components (ProForm, TrendCard, ...) for react-native-flux-desktop. Independent package depending on the ui core and the chart suite.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keyonByIos/react-native-flux-desktop-pro.git"
+  },
+  "homepage": "https://github.com/keyonByIos/react-native-flux-desktop-pro#readme",
+  "bugs": {
+    "url": "https://github.com/keyonByIos/react-native-flux-desktop-pro/issues"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [

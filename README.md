@@ -3,7 +3,7 @@
 > 🧩 Ready‑to‑use, mid/back‑office composite components — built on top of the atomic UI kit.
 > 🧩 开箱即用的高阶组件 —— 组合既有原子件，面向中后台业务场景。
 
-![version](https://img.shields.io/badge/version-0.1.0-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![runtime](https://img.shields.io/badge/pure%20React%C2%B7native%20pixels%C2%B7no%20Electron-ff69b4)
+![version](https://img.shields.io/badge/version-0.1.3-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![runtime](https://img.shields.io/badge/pure%20React%C2%B7native%20pixels%C2%B7no%20Electron-ff69b4)
 
 **Depends on / 依赖：** `react-native-flux-desktop`（UI core / UI 核心）· `react-native-flux-desktop-chart`（内嵌迷你图 / sparkline）· `react`
 
